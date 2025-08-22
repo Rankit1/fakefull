@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytesseract
+pillow
+playwright
+transformers
+sentence-transformers
+torch
+openai
+requests
